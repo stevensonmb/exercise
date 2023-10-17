@@ -2,4 +2,4 @@ This documentation describes how to use the Pavel automatic toothbrush.
 
 Note that this toothbrush is toally safe to use for children, adults, pets, wildlife, and insects.
 
-The toothbrush can speak seven different languages.
+The toothbrush can speak six different languages.
